@@ -1,0 +1,13 @@
+package prova.admissao.perguntas;
+
+public class Pergunta6 {
+	/*
+	 * A função deverá receber um array de inteiros como parâmetro e deverá retornar o mesmo array ordenado em ordem crescente.
+	 * Ex: Input: [5,1,0,7,3,3] - Output: [0,1,3,3,5,7]
+	 *
+	 * @param array $array - Array a ser ordenado
+	 * @return array
+	 
+	function ordenarArray(array $array):array{}
+	*/
+}

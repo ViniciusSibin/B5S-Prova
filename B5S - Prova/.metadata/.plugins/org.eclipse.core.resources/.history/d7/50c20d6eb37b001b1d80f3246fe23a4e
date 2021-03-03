@@ -1,0 +1,14 @@
+package prova.admissao.perguntas;
+
+public class Pergunta5 {
+	/*
+
+	 * A função deverá receber uma string e substituir todas as vogais da mesma pelo sinal '?'
+	 * Ex: input: 'Bar' - output: 'B?r'
+	 *
+	 * @param string $string
+	 * @return string
+
+	function substituirCaracteres(string $string):string{}
+	 */
+}

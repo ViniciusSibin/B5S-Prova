@@ -1,0 +1,16 @@
+package prova.admissao.perguntas;
+
+public class Pergunta8 {
+	/*
+	 * Your function need to read the file data.dat and return how many lines there are where the number of 0's is a multiple of 3 or the numbers of 1s is a multiple of 2.
+	 *
+	 * A função deverá ler o arquivo data.dat e retornar o número de linhas que atende pelo menos uma das condições abaixo:
+	 * 1 - A quantidade de números zeros na linha é um multiplo de 3
+	 * 2 - A quantidade de números 1 é um multiplo de 2
+	 *
+	 * @return int
+	 
+	function fileHandler():int{}
+	function manipulacaoArquivo():int{}
+*/
+}

@@ -1,0 +1,17 @@
+package prova.admissao.perguntas;
+
+public class Pergunta4 {
+	/*
+	 * The function should expect a string and return it backwards.
+	 * Ex: input: "foo" - output: "oof"
+	 *
+	 * A função deverá receber uma string e retornar a mesma invertida.
+	 * Ex: input: "bar" - output: "rab"
+	 *
+	 * @param string $string
+	 * @return string
+
+	function reverseString(string $string):string{}
+	function inverterString(string $string):string{}
+	 */
+}

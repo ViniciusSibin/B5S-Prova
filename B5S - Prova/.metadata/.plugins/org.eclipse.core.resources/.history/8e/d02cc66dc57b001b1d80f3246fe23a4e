@@ -1,0 +1,29 @@
+package prova.admissao.perguntas;
+
+public class Pergunta7 {
+	/*8
+	 * 
+	 * A função irá receber um array de inteiros e retornar o primeiro elemento não repetido.
+	 * Ex: input: [2,2,3,1,1,6] - output: 3
+	 *
+	 * @param array $array - Array contendo inteiros
+	 * @return int
+	 
+	function primeiroValorNaoRepetido(array $array):int{}
+	*/
+	
+	public static int primeiroValorNaoRepetido (int[] array) {
+		int aux = 0, aux2 = 0;
+		for(int i=0; i<=array.length; i++) {
+			aux2++;
+			for(int x=0; x<=array.length; x++) {
+				aux++;
+			}
+		
+		}
+	System.out.println("Array: " + array.length);
+	System.out.println("Primeiro for: " + aux2);
+	System.out.println("Segundo for: " + aux);
+	return 0;
+	}
+}

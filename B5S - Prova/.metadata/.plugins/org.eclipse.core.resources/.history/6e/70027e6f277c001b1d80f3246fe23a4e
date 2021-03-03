@@ -1,0 +1,13 @@
+package prova.admissao.perguntas;
+
+public class Pergunta8 {
+	/*
+	 * A função deverá ler o arquivo data.dat e retornar o número de linhas que atende pelo menos uma das condições abaixo:
+	 * 1 - A quantidade de números zeros na linha é um multiplo de 3
+	 * 2 - A quantidade de números 1 é um multiplo de 2
+	 *
+	 * @return int
+	 
+	function manipulacaoArquivo():int{}
+*/
+}

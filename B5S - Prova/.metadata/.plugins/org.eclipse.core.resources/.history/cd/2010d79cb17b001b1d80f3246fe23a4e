@@ -1,0 +1,17 @@
+package prova.admissao.perguntas;
+
+public class Pergunta3 {
+	/*
+	 * The function should expect an array containing integers greater than zero and return the amount of even values contained in it.
+	 * Ex: input: [1,2,3,4,5] - output: 2
+	 *
+	 * Recebe um array de inteiros maiores que zero e retorna a quantidade de números pares existentes no array
+	 * Ex: input: [1,2,3,4,5] - output: 2
+	 *
+	 * @param array $array
+	 * @return int
+	 
+	function oddOrEven(int $number):bool{}
+	function parOuImpar(int $numero):bool{}
+	*/
+}

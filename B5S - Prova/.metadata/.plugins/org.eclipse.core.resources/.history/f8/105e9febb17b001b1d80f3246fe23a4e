@@ -1,0 +1,23 @@
+package prova.admissao.perguntas;
+
+public class Pergunta4 {
+	/*
+
+	 * A função deverá receber uma string e retornar a mesma invertida.
+	 * Ex: input: "bar" - output: "rab"
+	 *
+	 * @return string
+
+	function inverterString(string $string):string{}
+	 */
+
+	
+	public static String inverterString(String string) {
+		String inverso = "";
+		char arrayChar[] = string.toCharArray();
+		for (int i = arrayChar.length - 1; i >= 0;){
+		inverso += String.valueOf(arrayChar[i]);
+		 }
+		 return inverso;
+		}
+}

@@ -1,0 +1,28 @@
+package prova.admissao.perguntas;
+
+public class Pergunta3 {
+	/*
+
+	 * Recebe um array de inteiros maiores que zero e retorna a quantidade de números pares existentes no array
+	 * Ex: input: [1,2,3,4,5] - output: 2
+	 *
+	 * @param array $array
+	 * @return int
+	 
+	function oddOrEven(int $number):bool{}
+	function parOuImpar(int $numero):bool{}
+	*/
+	
+	public int parOuImpar(int[] array) {
+		int pares = 0;
+		System.out.println(array.length);
+		for(int i = array.length; i <= i-1; i++) {
+			System.out.println(array[i]);
+			if(array[i] % 2 == 0) {
+				pares ++;
+			}
+		}
+		return pares;
+		
+	}
+}

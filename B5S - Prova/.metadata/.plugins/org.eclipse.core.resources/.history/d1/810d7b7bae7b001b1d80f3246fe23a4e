@@ -1,0 +1,19 @@
+package prova.admissao.perguntas;
+
+public class Pergunta1 {
+	/*
+	 * The function should recive an integer between 1 and 12 (inclusive) and return the corresponding string value. If the informed integger is not between 1 and 12, the function should return 'Unknown Month'
+	 * Ex: input: 1 - output: "January"
+	 * Ex: input: 13 - output: "Unknown Month"
+	 *
+	 * A função recebe um inteiro entre 1 e 12 e retorna o mês correspondente por extenso. Caso o mês informado não esteja entre 1 e 12, deverá ser retornado "Mes Inexistente"
+	 * Ex: input: 1 	- output: "Janeiro"
+	 * Ex: input: 13 	- output: "Mês Desconhecido"
+	 *
+	 * @param int $month
+	 * @return string
+	 
+	function correspondingMonth(int $month):string{}
+	function mesCorrespondente(int $mes):string{}
+	*/
+}

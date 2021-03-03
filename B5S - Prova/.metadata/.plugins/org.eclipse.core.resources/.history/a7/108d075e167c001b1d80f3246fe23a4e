@@ -1,0 +1,21 @@
+package prova.admissao.perguntas;
+
+public class Pergunta2 {
+	/*
+	 * A função deverá receber um array com pelo menos 3 itens e retornar a média simples de todos os itens do array.
+	 * Caso o array recebido possua menos que 3 itens, deverá ser retornado o boleano false.
+	 * Ex: input: [4,6,8] 	- output 6
+	 * Ex: input: [1,2] 	- output false
+	 *
+	 * @param array $notas
+	 * @return int|bool
+	
+	function mediaSimples(array $notas){}
+	*/
+	
+	/*public static int mediaSimples(int num1, int num2, int num3) {
+		int arrayint[];
+		arrayint[1] = num1;
+		return 0;
+	}*/
+}

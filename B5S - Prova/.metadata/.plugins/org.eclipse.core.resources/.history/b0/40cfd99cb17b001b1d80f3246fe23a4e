@@ -1,0 +1,13 @@
+package prova.admissao.perguntas;
+
+public class Pergunta4 {
+	/*
+
+	 * A função deverá receber uma string e retornar a mesma invertida.
+	 * Ex: input: "bar" - output: "rab"
+	 *
+	 * @return string
+
+	function inverterString(string $string):string{}
+	 */
+}

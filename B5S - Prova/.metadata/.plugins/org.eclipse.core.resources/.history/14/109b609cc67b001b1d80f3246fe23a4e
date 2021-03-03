@@ -1,0 +1,36 @@
+package prova.admissao.perguntas;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		Pergunta1 per1 = new Pergunta1();
+		Pergunta3 per3 = new Pergunta3();
+		Pergunta4 per4 = new Pergunta4();
+		Pergunta5 per5 = new Pergunta5();
+		Pergunta7 per7 = new Pergunta7();
+		
+		/*per1.mesCorrespondente(1);
+		per1.mesCorrespondente(2);
+		per1.mesCorrespondente(3);
+		per1.mesCorrespondente(4);
+		per1.mesCorrespondente(5);
+		per1.mesCorrespondente(6);
+		per1.mesCorrespondente(7);
+		per1.mesCorrespondente(8);
+		per1.mesCorrespondente(9);
+		per1.mesCorrespondente(10);
+		per1.mesCorrespondente(11);
+		per1.mesCorrespondente(12);*/
+
+		//System.out.println(per4.inverterString("Garrafa"));
+		
+		//System.out.println(per5.substituirCaracteres("Gabriela"));
+		/*int[] a = {2,2,2,2,2,2,2,2,2,2,2,2,2, 2};
+		
+		System.out.println("Quantidade de pares: " + per3.parOuImpar(a));
+		}*/
+		
+		int[] a = {1,2,2,3,3,4};
+		System.out.println("Primeiro numero não repetido: " + per7.primeiroValorNaoRepetido(a));
+
+}}

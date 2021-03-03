@@ -1,0 +1,23 @@
+package prova.admissao.perguntas;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		Pergunta1 per1 = new Pergunta1();
+		
+		per1.mesCorrespondente(1);
+		per1.mesCorrespondente(2);
+		per1.mesCorrespondente(3);
+		per1.mesCorrespondente(4);
+		per1.mesCorrespondente(5);
+		per1.mesCorrespondente(6);
+		per1.mesCorrespondente(7);
+		per1.mesCorrespondente(8);
+		per1.mesCorrespondente(9);
+		per1.mesCorrespondente(10);
+		per1.mesCorrespondente(11);
+		per1.mesCorrespondente(12);
+
+	}
+
+}
